@@ -1,0 +1,38 @@
+.regester {
+    height: 545px;
+    width: 450px;
+    border: solid 1px black;
+    margin-top: 20px;
+    margin-left: 450px;
+    padding: 20px;
+    padding-top: 10px;
+}
+
+.header {
+    text-align: center;
+    padding-top: 10px;
+    color: rgb(0, 0, 0);
+}
+
+.form-control {
+    margin-top: 15px;
+}
+
+.names {
+    width: 180px;
+    margin-left: 10px;
+}
+
+.display {
+    display: inline;
+    display: flex;
+    flex-direction: row;
+}
+
+#link {
+    text-decoration: none;
+    color: aliceblue;
+}
+.btn{
+    background-color: brown;
+}
